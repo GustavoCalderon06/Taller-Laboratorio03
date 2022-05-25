@@ -4,7 +4,7 @@ i) Una empresa de transporte de pasajeros cuenta con 12 buses por el momento, pe
  nuevos buses y dar de baja algunos que ya están viejos (vendiéndolos a un tercero).
  
  Clases:
- Bus:Posee los buses de la empresa.
+ Buses:Posee los buses de la empresa.
  Empresa:La que gestiona y almacena los buses.
  Venta:El proceso de venta de un bus.
  Cliente:Datos del cliente que hara la compra.
